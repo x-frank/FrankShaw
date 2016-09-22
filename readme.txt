@@ -1,5 +1,2 @@
-Git is a DistributeD version control system.
-Git is free software Distributed Under GPL.
-Git has a mutable index called stage!!!
-Git tracks changes of files.....
-for branch1
+learning how to use git...
+4th edition
